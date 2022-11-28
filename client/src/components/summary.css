@@ -1,0 +1,147 @@
+.address-box {
+  top: 700px;
+  left: 549px;
+  width: 236px;
+  height: 85px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: 1px solid #5861ae;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.trbody {
+  border-bottom: 1px solid #5861ae;
+  padding-bottom: 5px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.address-text {
+  top: 732px;
+  left: 558px;
+  width: 198px;
+  height: 44px;
+  text-align: left;
+  font: normal normal normal 16px/22px Open Sans;
+  letter-spacing: 0.16px;
+  color: #3e3f40;
+  opacity: 1;
+}
+
+.address-home {
+  top: 706px;
+  left: 558px;
+  width: 54px;
+  height: 24px;
+  text-align: left;
+  font: normal normal bold 18px/24px Open Sans;
+  letter-spacing: 0.18px;
+  color: #3e3f40;
+  opacity: 1;
+}
+
+.add {
+  top: 656px;
+  left: 549px;
+  width: 57px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/19px Open Sans;
+  letter-spacing: 0.42px;
+  color: #3b3737;
+  opacity: 1;
+}
+
+.order-details {
+  top: 280px;
+  left: 547px;
+  width: 91px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/19px Open Sans;
+  letter-spacing: 0.42px;
+  color: #3b3737;
+  opacity: 1;
+}
+
+.T1 {
+  top: 323px;
+  left: 559px;
+  width: 55px;
+  height: 24px;
+  text-align: left;
+  font: normal normal normal 18px/24px Open Sans;
+  letter-spacing: 0.43px;
+  color: #1b2734;
+  opacity: 1;
+}
+
+.T2 {
+  top: 328px;
+  left: 829px;
+  width: 119px;
+  height: 22px;
+  text-align: left;
+  font: italic normal normal 16px/22px Open Sans;
+  letter-spacing: 0.38px;
+  color: #1b2734;
+  opacity: 1;
+}
+
+.T4 {
+  top: 325px;
+  left: 1205px;
+  width: 62px;
+  height: 22px;
+  text-align: left;
+  font: normal normal 600 16px/22px Open Sans;
+  letter-spacing: 0.38px;
+  color: #1b2734;
+  opacity: 1;
+}
+
+.T5 {
+  top: 323px;
+  left: 1320px;
+  width: 35px;
+  height: 27px;
+  text-align: left;
+  font: normal normal 600 20px/27px Open Sans;
+  letter-spacing: 0.48px;
+  color: #5861ae;
+  opacity: 1;
+}
+
+.modal-dialog {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.cancel_button {
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+}
+.itemsproceed {
+  background: #5861ae 0% 0% no-repeat padding-box;
+  border: 1px solid #5861ae;
+  border-radius: 4px;
+  opacity: 1;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #ffffff;
+  padding: 0px 15px;
+  margin-top: 13px;
+}
+.fatri {
+  color: #f40808;
+  opacity: 1;
+  font-size: 30px;
+}
+.ordername {
+  font: normal normal 600 14px/19px Open Sans;
+  letter-spacing: 0.34px;
+  color: #5861ae;
+}

@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.upper-container{
+    float: left;
+    /* margin-top: 5vh; */
+    padding-top: 25vh;
+    /* padding-bottom: vh; */
+    padding-left: 5vw;
+    padding-right: 8vw;
+    background-color:white;
+    height: 100vh;
+}
+.Heading-container h2{
+    /* text-align: left; */
+    font: normal normal 600 60px/80px Avenir;
+    /* letter-spacing: 1px; */
+    color: #5861AE;
+    text-transform: capitalize;
+
+}
+
+.bottom-container{
+    padding-top: 15vh;
+}
+.bottom-container p{
+    font: normal normal normal 16px/26px Avenir;
+    letter-spacing: 0.2px;
+    color: #565657;
+}
+.bottom-container button{
+    font: normal normal bold 15px/20px Open Sans;
+    letter-spacing: 0.3px;
+    color: #5861AE;
+    width: 8vw;
+    height: 5vh;
+    background-color: white;
+    border-color:#5861AE ;
+    cursor: pointer;
+}

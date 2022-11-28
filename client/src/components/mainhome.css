@@ -1,0 +1,236 @@
+.mainh1 {
+  text-align: left;
+  font: normal normal 900 100px/120px Avenir;
+  letter-spacing: 0px;
+  color: #5861ae;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.mainh2 {
+  font-size: 32px;
+  letter-spacing: 1.28px;
+  color: #4552c1;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.inputform {
+  border: none;
+  border-bottom: 1px solid #000000;
+  background: #b9c0fd00 0% 0% no-repeat padding-box;
+  border-radius: 0px;
+  padding: 20px 0px;
+}
+.mainbut {
+  background: #4552c1 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 34px;
+}
+.forgot {
+  text-align: right;
+  font-size: 16px;
+  letter-spacing: 0.64px;
+  color: #4552c1;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.reg {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding: 100px;
+}
+.sig {
+  background: #b9c0fd1a 0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding: 100px;
+}
+.doorstep {
+  text-align: left;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  color: #565657;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.haveacc {
+  margin-top: 36px;
+  font-size: 16px;
+  letter-spacing: 0.64px;
+  color: #565657;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.regbtn {
+  text-align: center;
+  font: normal normal bold 15px/20px Open Sans;
+  letter-spacing: 0.3px;
+  color: #4552c1;
+  border: 2px solid #4552c1;
+  border-radius: 4px;
+  opacity: 1;
+  margin-top: 8px;
+}
+.img {
+  width: 20px;
+  height: 20px;
+}
+.main-head {
+  background: #5861ae 0% 0% no-repeat padding-box;
+  opacity: 1;
+  height: 720px;
+  width: 50px;
+}
+.createbtn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.fontmain {
+  color: #ffffff;
+  font-size: 25px;
+  padding: 15px;
+}
+.fontmain1 {
+  color: #5861ae;
+  font-size: 25px;
+  padding: 15px;
+  background-color: #ffffff;
+}
+.col-lg-12 {
+  padding: 0px;
+}
+.has-search .form-control {
+  padding-left: 2.375rem;
+  border: none;
+  border-bottom: 1px solid #000000;
+  border-radius: 0px;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  border: none;
+
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+.orderimg {
+  height: 35px;
+  width: 35px;
+}
+.maintable {
+  margin-top: 30px;
+}
+.cancel {
+  text-align: left;
+  font-size: 14px;
+  letter-spacing: 0px;
+  color: #5861ae;
+  border: 1px solid #5861ae;
+  border-radius: 4px;
+  opacity: 1;
+}
+.proceed {
+  background: #5861ae 0% 0% no-repeat padding-box;
+  border: 1px solid #5861ae;
+  border-radius: 4px;
+  margin-left: 20px;
+  opacity: 1;
+}
+.but-com {
+  text-align: right;
+}
+.modal-header {
+  background: #5861ae 0% 0% no-repeat padding-box;
+  opacity: 1;
+  color: #ffffff;
+}
+.mainadd {
+  background: #f4f9ff 0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding: 30px 0px;
+}
+.modal {
+  left: 60%;
+}
+.trcss {
+  width: 100%;
+  border-bottom: 1px solid gray;
+  padding: 10px 0px;
+}
+.order-head {
+  font: normal normal 600 14px/19px Open Sans;
+  letter-spacing: 0.42px;
+  color: #3b3737;
+  opacity: 1;
+  padding: 10px 0px;
+}
+.spamrate {
+  font: normal normal 600 20px/27px Open Sans;
+  letter-spacing: 0.48px;
+  color: #5861ae;
+  opacity: 1;
+}
+.rate-head {
+  font: normal normal 600 16px/22px Open Sans;
+  letter-spacing: 0.38px;
+  color: #1b2734;
+  opacity: 1;
+  text-align: right;
+}
+.totalcss {
+  background: #5861ae 0% 0% no-repeat padding-box;
+  opacity: 1;
+  letter-spacing: 0.53px;
+  color: #ffffff;
+  padding: 10px 0px;
+}
+.btncon {
+  text-align: right;
+}
+.resetbtn {
+  border: 1px solid #5861ae;
+  border-radius: 4px;
+  opacity: 1;
+  padding: 6px 25px;
+  /* font: normal normal 600 14px/48px Open Sans; */
+  letter-spacing: 0px;
+  color: #5861ae;
+}
+.order-ava {
+  letter-spacing: 0px;
+  color: #222b45;
+  opacity: 0.5;
+}
+.create-order {
+  border: 1px solid #5861ae;
+  border-radius: 4px;
+  opacity: 1;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #5861ae;
+  /* padding: 0px 25px; */
+}
+
+.create-button{
+  padding: .3rem .8rem;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #5861ae;
+  border-color: #5861ae;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+
+#searchbar{
+  width: 150px;
+}

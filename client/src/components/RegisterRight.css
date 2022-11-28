@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.register-container{
+    background: #F8F9FF 0% 0% no-repeat padding-box;
+    height: 100vh;
+    width: 1038px;
+    padding: 5rem;
+    float: right;
+}
+.register-box{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: burlywood; */
+}
+.left-register, .right-register{
+    display: flex;
+    flex-direction: column;
+    /* background-color: cadetblue; */
+    width: 50%;
+}
+.left-register input, .right-register input{
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid #989898;
+    margin-bottom: 2.5rem;
+    height: 2rem;
+    outline: none;
+    padding-bottom: .5rem;
+    padding-left: .25rem;
+    background: #F8F9FF 0% 0% no-repeat padding-box;
+    font: normal normal normal 17px/27px Open Sans;
+    letter-spacing: 0.6px;
+    color: #77838F;
+    
+}
+.register-container h1{
+    text-align: left;
+    font: normal normal medium 32px/60px Avenir;
+    letter-spacing: 1.28px;
+    color: #5861AE;
+    text-transform: uppercase;
+}
+
+.term-condition{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.term-condition input{
+    margin-top: 4px;
+    cursor: pointer;
+}
+.term-condition h4{
+    margin-left: 10px;
+    font: normal normal normal 14px/20px Open Sans;
+    letter-spacing: 0.49px;
+    color: #5861AE;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.register-container button{
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+    margin-top: 3rem;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    color: #fff;
+}

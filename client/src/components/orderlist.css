@@ -1,0 +1,30 @@
+.card-columns {
+  margin-right: 10px !important;
+  width: 70%;
+  display: inline-flex !important;
+}
+.confirm {
+  display: flex;
+  justify-content: flex-end !important;
+}
+.confirm_page {
+  font-size: small;
+}
+.subtotal {
+  float: right;
+  width: 40%;
+  margin-right: 30px;
+  display: flex;
+  justify-content: flex-end !important;
+}
+.menu {
+  color: white;
+  position: relative;
+  margin-right: 50px;
+  margin-left: auto;
+}
+
+.form-control{
+  width: 75px;
+  text-align: center;
+}
